@@ -1,1 +1,2 @@
-This contains files pertaining to the journey of devops
+1-listit - lists contents of working directory
+2-bring_me_home - changes working directory to user's home directory
